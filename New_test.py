@@ -1,4 +1,3 @@
-a = 10
-b = 20 
-for i in range(b):
+
+for i in range(20):
     print("Hello World")
